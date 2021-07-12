@@ -11,13 +11,18 @@
 </details>
 
 <details>
-	<summary>One programming language with data structure and algorithm</summary>
-  
-</details>
-
-<details>
-	<summary>One programming language with data structure and algorithm</summary>
-  
+	<summary>Learn a language</summary>	
+Make sure to learn it's quirks and core detail about it's runtime. e.g. concurency, memory model etc.
+	
+- [ ] Go
+	- [ ] [A Tour of Go](https://tour.golang.org/welcome/1)
+- [ ] Rust
+---
+- [ ] C#
+---
+- [ ] Javascript
+- [ ] Python
+- [ ] Ruby
 </details>
 
 <details>
