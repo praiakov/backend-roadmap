@@ -11,18 +11,18 @@
 </details>
 
 <details>
-	<summary>Learn a language</summary>	
+	<summary>Learn a language with DS/Algo concepts</summary>	
 Make sure to learn it's quirks and core detail about it's runtime. e.g. concurency, memory model etc.
 	
-- [ ] Go
-	- [ ] [A Tour of Go](https://tour.golang.org/welcome/1)
-- [ ] Rust
+- Go
+	- [A Tour of Go](https://tour.golang.org/welcome/1)
+- Rust
 ---
-- [ ] C#
+- C#
 ---
-- [ ] Javascript
-- [ ] Python
-- [ ] Ruby
+- Javascript
+- Python
+- Ruby
 </details>
 
 <details>
@@ -41,8 +41,12 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 </details>
 
 <details>
-	<summary>Databases (Sql, noSql)</summary>
-  
+	<summary>Databases (Sql, noSql)</summary>	
+	
+- SQL
+---
+- NoSQL
+	- [RavenDb Bootcamp](https://github.com/ravendb/bootcamp)
 </details>
 
 <details>
