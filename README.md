@@ -27,7 +27,8 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 
 <details>
 	<summary>Version control system (Git basics and Github)</summary>
-  
+	
+- [Learn Git](https://www.tutorialspoint.com/git/index.htm)
 </details>
 
 <details>
