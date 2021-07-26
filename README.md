@@ -57,9 +57,12 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 
 <details>
 	<summary>Microservice Concepts, API and API Gateway</summary>
-  
+	
+- [Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Microservice Architecture](https://microservices.io/patterns/microservices.html)
+- [API Gateway](https://microservices.io/patterns/apigateway.html)
+   
 </details>
-
 <details>
 	<summary>Distributed System and Architecture</summary>
   
