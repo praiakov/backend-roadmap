@@ -72,10 +72,11 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 	<summary>Containerization (Docker)</summary>
   
 </details>
-
 <details>
 	<summary>Serverless architecture</summary>
-  
+	
+- [Serverless architecture](https://martinfowler.com/articles/serverless.html)
+   
 </details>
 
 <details>
