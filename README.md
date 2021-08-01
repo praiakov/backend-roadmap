@@ -38,7 +38,8 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 
 <details>
 	<summary>Basic Linux and server (tomcat)</summary>
-  
+	
+- [The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 </details>
 
 <details>
