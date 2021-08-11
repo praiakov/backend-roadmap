@@ -53,7 +53,9 @@ Make sure to learn it's quirks and core detail about it's runtime. e.g. concuren
 
 <details>
 	<summary>Caching (Redis/ Memcache)</summary>
-  
+	
+- [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
+   
 </details>
 
 <details>
